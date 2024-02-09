@@ -38,6 +38,7 @@ fun Navigation(navHostController: NavHostController){
 }
 //bottom navigation is working fine and it is just amazing way to do the ui of it
 //it is one of the best thing in compose to use the navigation
+//all bottom navigation related work is done
 @Composable
 fun BottomNavigationBar(
     item:List<NavigationItem>,
